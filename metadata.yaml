@@ -1,0 +1,23 @@
+_repo: The-Go-Ahead-Boys-and-the-Racing-Motor-Boat_562
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kay, Ross
+    gutenberg_agent_id: '286'
+    url: http://www.gutenberg.org/2009/agents/286
+description: ''
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Boats and boating -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Go Ahead Boys and the Racing Motor-Boat
+url: http://www.gutenberg.org/ebooks/562
