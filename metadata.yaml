@@ -1,11 +1,16 @@
 _repo: The-Go-Ahead-Boys-and-the-Racing-Motor-Boat_562
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kay, Ross
     gutenberg_agent_id: '286'
     url: http://www.gutenberg.org/2009/agents/286
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/562#The-Go-Ahead-Boys-and-the-Racing-Motor-Boat
 gutenberg_issued: '1996-06-01'
 gutenberg_type: Text
 identifiers:
